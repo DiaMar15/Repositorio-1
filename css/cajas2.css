@@ -5,12 +5,15 @@ background-color: dimgrey;
 .cajaA{
     width:300px; 
     height:190px;
-    border: 0.25cm dashed 
-    rgba(194,105,91, 0.823);
+    border: 0.25cm dashed rgba(194,105,91, 0.823);
     margin-bottom: 2cm;
     margin-left: 5%;
 }
 
+.imglogo{
+    width:auto; 
+    height:auto;
+}
 .cajaB{
     border-radius: 200px;
         background-color: #12D8FF;
@@ -32,8 +35,7 @@ background-color: dimgrey;
     border-bottom-right-radius: 100px;
     width: 200px; 
     height: 150px;;
-    border: 35px groove 
-    rgb(226, 255, 5);
+    border: 35px groove rgb(226, 255, 5);
     margin-top: 3.5cm;
     margin-left: 95%;
 }
@@ -42,8 +44,7 @@ background-color: dimgrey;
     background-color: #fd0707;
     width: 500px; 
     height: 200px;
-    border: 35px inset 
-    rgb(95, 62, 150);
+    border: 35px inset rgb(95, 62, 150);
     margin-top: 3cm;
     margin-left: 5%;
 }
@@ -54,8 +55,7 @@ background-color: dimgrey;
     border-bottom-left-radius: 100px;
     width: 200px; 
     height: 150px;;
-    border: 35px solid 
-    rgb(33, 207, 14);
+    border: 35px solid rgb(33, 207, 14);
     margin-top: 1.5cm;
     margin-left: 90%;
     margin-right: 10%;
